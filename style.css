@@ -1,0 +1,42 @@
+.abc { 
+    border: 1px solid black;
+    width: 1300;
+    background-color: white;
+    margin-left: 22px;
+}
+body {
+    background-color: lightgrey;
+}
+ #abc {
+    text-align: center;
+    color: white;
+    background-color: darkblue;
+}
+
+select {
+    background-color: brown;
+    size: 40px;
+    color: white;
+    height: 40;
+    font-size: 16px;
+    padding: 0px;
+   text-align: center;
+    margin: 0px;
+}
+select:hover {
+             background-color: blue;
+            
+}
+option {
+           text-align: left;
+}
+marquee {
+          height: 310;
+          marquee-style:alternate;
+        }
+ #marquee {
+           background-color: gray;
+        text-align: left;
+        font-size: 17px;
+        line-height: 30px;          
+}
